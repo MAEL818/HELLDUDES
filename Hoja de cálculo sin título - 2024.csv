@@ -1,0 +1,83 @@
+Año,Nombre de la presa,Latitud,Longitud,Altitud,Estado,Municipio,Cuenca de disponibilidad,Región hidrológica,NAME Elevación (msnm),NAME Almacenamiento (hm³),NAMO Elevación (msnm),NAMO Almacenamiento (hm³),Elevación Actual (msnm),Almacenamiento Actual (hm³),% de llenado actual
+2024,"Abelardo L. Rodríguez, Ags.",21.916944,-102.427778,1974,Aguascalientes,Jesús María,Presa El Niágara,Lerma Santiago,1890,18.816,1888.88,15.997,2085.92,1.161,57
+2024,"Cincuenta Aniversario, Ags.",22.188611,-102.464167,2050,Aguascalientes,San José de Gracia,Presa Calles,Lerma Santiago,2088.57,5.039,2086,4.1,1828.03,15.123,93
+2024,"Derivadora Pabellón, Ags.",22.235,-102.4375,2090,Aguascalientes,Rincón de Romos,Río San Pedro,Lerma Santiago,2093,2.1,2092.6,2.038,1998.22,37.687,11
+2024,"El Niágara, Ags.",21.78,-102.371667,1828,Aguascalientes,Aguascalientes,Presa El Niágara,Lerma Santiago,1832.4,31.695,1828.4,16.188,1822.48,0.443,8
+2024,"Jocoque, Ags.",22.121667,-102.356944,1970,Aguascalientes,San José de Gracia,Río San Pedro,Lerma Santiago,1943.4,11.4,1942.45,10.975,1609.32,2.479,17
+2024,"La Codorniz, Ags.",21.9975,-102.676944,1783,Aguascalientes,Calvillo,Río Juchipila 1,Lerma Santiago,1837.76,6.528,1836,5.366,2077.9,2.198,54
+2024,"Media Luna, Ags.",21.8075,-102.788333,1585,Aguascalientes,Calvillo,Río Juchipila 1,Lerma Santiago,1621.96,21.196,1619.2,15,1939.72,9.15,83
+2024,"Plutarco Elías Calles, Ags.",22.141111,-102.417222,2020,Aguascalientes,San José de Gracia,Presa Calles,Lerma Santiago,2022,407.438,2020,358.121,1881.77,4.304,27
+2023,"Abelardo L. Rodríguez, Ags.",21.916944,-102.427778,1974,Aguascalientes,Jesús María,Presa El Niágara,Lerma Santiago,1890,18.816,1888.88,15.997,1883.44,6.12,38
+2023,"Cincuenta Aniversario, Ags.",22.188611,-102.464167,2050,Aguascalientes,San José de Gracia,Presa Calles,Lerma Santiago,2088.57,5.039,2086,4.1,2078.5,2.324,57
+2023,"Derivadora Pabellón, Ags.",22.235,-102.4375,2090,Aguascalientes,Rincón de Romos,Río San Pedro,Lerma Santiago,2093,2.1,2092.6,2.038,2086.62,1.244,61
+2023,"El Niágara, Ags.",21.78,-102.371667,1828,Aguascalientes,Aguascalientes,Presa El Niágara,Lerma Santiago,1832.4,31.695,1828.4,16.188,1828.49,16.448,102
+2023,"Jocoque, Ags.",22.121667,-102.356944,1970,Aguascalientes,San José de Gracia,Río San Pedro,Lerma Santiago,1943.4,11.4,1942.45,10.975,1941.41,10.228,93
+2023,"La Codorniz, Ags.",21.9975,-102.676944,1783,Aguascalientes,Calvillo,Río Juchipila 1,Lerma Santiago,1837.76,6.528,1836,5.366,1816,0,0
+2023,"Media Luna, Ags.",21.8075,-102.788333,1585,Aguascalientes,Calvillo,Río Juchipila 1,Lerma Santiago,1621.96,21.196,1619.2,15,1609.35,2.499,17
+2023,"Plutarco Elías Calles, Ags.",22.141111,-102.417222,2020,Aguascalientes,San José de Gracia,Presa Calles,Lerma Santiago,2022,407.438,2020,358.121,2002.15,70.697,20
+2022,"Abelardo L. Rodríguez, Ags.",21.916944,-102.427778,1974,Aguascalientes,Jesús María,Presa El Niágara,Lerma Santiago,1890,18.816,1888.88,15.997,1885.68,9.51,59
+2022,"Cincuenta Aniversario, Ags.",22.188611,-102.464167,2050,Aguascalientes,San José de Gracia,Presa Calles,Lerma Santiago,2088.57,5.039,2086,4.1,2080.9,2.847,69
+2022,"Derivadora Pabellón, Ags.",22.235,-102.4375,2090,Aguascalientes,Rincón de Romos,Río San Pedro,Lerma Santiago,2093,2.1,2092.6,2.038,2086.44,1.223,60
+2022,"El Niágara, Ags.",21.78,-102.371667,1828,Aguascalientes,Aguascalientes,Presa El Niágara,Lerma Santiago,1832.4,31.695,1828.4,16.188,1828.45,16.333,101
+2022,"Jocoque, Ags.",22.121667,-102.356944,1970,Aguascalientes,San José de Gracia,Río San Pedro,Lerma Santiago,1943.4,11.4,1942.45,10.975,1941.44,10.252,93
+2022,"La Codorniz, Ags.",21.9975,-102.676944,1783,Aguascalientes,Calvillo,Río Juchipila 1,Lerma Santiago,1837.76,6.528,1836,5.366,1828.6,1.997,37
+2022,"Media Luna, Ags.",21.8075,-102.788333,1585,Aguascalientes,Calvillo,Río Juchipila 1,Lerma Santiago,1621.96,21.196,1619.2,15,1615.05,8.325,56
+2022,"Plutarco Elías Calles, Ags.",22.141111,-102.417222,2020,Aguascalientes,San José de Gracia,Presa Calles,Lerma Santiago,2022,407.438,2020,358.121,2008.14,140.899,39
+2021,"Abelardo L. Rodríguez, Ags.",21.916944,-102.427778,1974,Aguascalientes,Jesús María,Presa El Niágara,Lerma Santiago,1890,18.816,1888.88,15.997,1882.12,4.661,29
+2021,"Cincuenta Aniversario, Ags.",22.188611,-102.464167,2050,Aguascalientes,San José de Gracia,Presa Calles,Lerma Santiago,2088.57,5.039,2086,4.1,2084.5,3.69,90
+2021,"Derivadora Pabellón, Ags.",22.235,-102.4375,2090,Aguascalientes,Rincón de Romos,Río San Pedro,Lerma Santiago,2093,2.1,2092.6,2.038,2087.5,1.35,66
+2021,"El Niágara, Ags.",21.78,-102.371667,1828,Aguascalientes,Aguascalientes,Presa El Niágara,Lerma Santiago,1832.4,31.695,1828.4,16.188,1828.66,16.937,105
+2021,"Jocoque, Ags.",22.121667,-102.356944,1970,Aguascalientes,San José de Gracia,Río San Pedro,Lerma Santiago,1943.4,11.4,1942.45,10.975,1942.09,10.713,98
+2021,"La Codorniz, Ags.",21.9975,-102.676944,1783,Aguascalientes,Calvillo,Río Juchipila 1,Lerma Santiago,1837.76,6.528,1836,5.366,1829.93,2.466,46
+2021,"Media Luna, Ags.",21.8075,-102.788333,1585,Aguascalientes,Calvillo,Río Juchipila 1,Lerma Santiago,1621.96,21.196,1619.2,15,1610.2,3.16,21
+2021,"Plutarco Elías Calles, Ags.",22.141111,-102.417222,2020,Aguascalientes,San José de Gracia,Presa Calles,Lerma Santiago,2022,407.438,2020,358.121,2004.99,99.891,28
+2020,"Abelardo L. Rodríguez, Ags.",21.916944,-102.427778,1974,Aguascalientes,Jesús María,Presa El Niágara,Lerma Santiago,1890,18.816,1888.88,15.997,1882.58,5.175,32
+2020,"Cincuenta Aniversario, Ags.",22.188611,-102.464167,2050,Aguascalientes,San José de Gracia,Presa Calles,Lerma Santiago,2088.57,5.039,2086,4.1,2081.38,2.957,72
+2020,"Derivadora Pabellón, Ags.",22.235,-102.4375,2090,Aguascalientes,Rincón de Romos,Río San Pedro,Lerma Santiago,2093,2.1,2092.6,2.038,2086.72,1.256,62
+2020,"El Niágara, Ags.",21.78,-102.371667,1828,Aguascalientes,Aguascalientes,Presa El Niágara,Lerma Santiago,1832.4,31.695,1828.4,16.188,1828.57,16.678,103
+2020,"Jocoque, Ags.",22.121667,-102.356944,1970,Aguascalientes,San José de Gracia,Río San Pedro,Lerma Santiago,1943.4,11.4,1942.45,10.975,1941.94,10.608,97
+2020,"La Codorniz, Ags.",21.9975,-102.676944,1783,Aguascalientes,Calvillo,Río Juchipila 1,Lerma Santiago,1837.76,6.528,1836,5.366,1831.13,2.933,55
+2020,"Media Luna, Ags.",21.8075,-102.788333,1585,Aguascalientes,Calvillo,Río Juchipila 1,Lerma Santiago,1621.96,21.196,1619.2,15,1612.2,4.95,33
+2020,"Plutarco Elías Calles, Ags.",22.141111,-102.417222,2020,Aguascalientes,San José de Gracia,Presa Calles,Lerma Santiago,2022,407.438,2020,358.121,2007.78,135.85,38
+2019,"Abelardo L. Rodríguez, Ags.",21.916944,-102.427778,1974,Aguascalientes,Jesús María,Presa El Niágara,Lerma Santiago,1890,18.84,1888.9,16.043,1884.14,6.959,43
+2019,"Derivadora Pabellón, Ags.",22.235,-102.4375,2090,Aguascalientes,Rincón de Romos,Río San Pedro,Lerma Santiago,2093,2.1,2092.6,2.038,2086.24,1.199,59
+2019,"El Niágara, Ags.",21.78,-102.371667,1828,Aguascalientes,Aguascalientes,Presa El Niágara,Lerma Santiago,1832.4,31.695,1828.4,16.188,1828.42,16.246,100
+2019,"Jocoque, Ags.",22.121667,-102.356944,1970,Aguascalientes,San José de Gracia,Río San Pedro,Lerma Santiago,1943.4,11.4,1942.45,10.975,1941.64,10.392,95
+2019,"La Codorniz, Ags.",21.9975,-102.676944,1783,Aguascalientes,Calvillo,Río Juchipila 1,Lerma Santiago,1837.76,6.528,1836,5.366,1830.84,2.817,52
+2019,"Media Luna, Ags.",21.8075,-102.788333,1585,Aguascalientes,Calvillo,Río Juchipila 1,Lerma Santiago,1621.96,21.196,1619.2,15,1615.5,9,60
+2019,"Plutarco Elías Calles, Ags.",22.141111,-102.417222,2020,Aguascalientes,San José de Gracia,Presa Calles,Lerma Santiago,2022,407.438,2020,358.121,2011.29,189.749,53
+2018,"Abelardo L. Rodríguez, Ags.",21.916944,-102.427778,1974,Aguascalientes,Jesús María,Presa El Niágara,Lerma Santiago,1890,18.84,1888.9,15.99,1885.84,9.774,61
+2018,"Derivadora Pabellón, Ags.",22.235,-102.4375,2090,Aguascalientes,Rincón de Romos,Río San Pedro,Lerma Santiago,2093,2.1,2092.6,2.038,2086.74,1.259,62
+2018,"El Niágara, Ags.",21.78,-102.371667,1828,Aguascalientes,Aguascalientes,Presa El Niágara,Lerma Santiago,1832.4,31.695,1828.4,16.188,1828.54,16.592,102
+2018,"Jocoque, Ags.",22.121667,-102.356944,1970,Aguascalientes,San José de Gracia,Río San Pedro,Lerma Santiago,1943.4,11.4,1942.45,10.975,1942.47,10.989,100
+2018,"La Codorniz, Ags.",21.9975,-102.676944,1783,Aguascalientes,Calvillo,Río Juchipila 1,Lerma Santiago,1837.76,6.528,1836,5.366,1834.3,4.401,82
+2018,"Media Luna, Ags.",21.8075,-102.788333,1585,Aguascalientes,Calvillo,Río Juchipila 1,Lerma Santiago,1621.96,21.196,1619.2,15,1619.28,15.266,102
+2018,"Plutarco Elías Calles, Ags.",22.141111,-102.417222,2020,Aguascalientes,San José de Gracia,Presa Calles,Lerma Santiago,2022,407.438,2020,358.121,2013.95,236.724,66
+2017,"Abelardo L. Rodríguez, Ags.",21.916944,-102.427778,1974,Aguascalientes,Jesús María,Presa El Niágara,Lerma Santiago,1890,18.84,1888.9,15.99,1886.27,10.532,66
+2017,"Derivadora Pabellón, Ags.",22.235,-102.4375,2090,Aguascalientes,Rincón de Romos,Río San Pedro,Lerma Santiago,2093,2.1,2092.6,2.038,2086.11,1.183,58
+2017,"El Niágara, Ags.",21.78,-102.371667,1828,Aguascalientes,Aguascalientes,Presa El Niágara,Lerma Santiago,1832.4,31.695,1828.4,16.188,1828.5,16.477,102
+2017,"Jocoque, Ags.",22.121667,-102.356944,1970,Aguascalientes,San José de Gracia,Río San Pedro,Lerma Santiago,1943.4,11.4,1942.45,10.975,1942.45,10.975,100
+2017,"La Codorniz, Ags.",21.9975,-102.676944,1783,Aguascalientes,Calvillo,Río Juchipila 1,Lerma Santiago,1837.76,6.528,1836,5.366,1828.4,1.929,36
+2017,"Media Luna, Ags.",21.8075,-102.788333,1585,Aguascalientes,Calvillo,Río Juchipila 1,Lerma Santiago,1621.96,21.196,1619.2,15,1614.75,7.9,53
+2017,"Plutarco Elías Calles, Ags.",22.141111,-102.417222,2020,Aguascalientes,San José de Gracia,Presa Calles,Lerma Santiago,2022,407.438,2020,358.121,2011.66,195.988,55
+2016,"Abelardo L. Rodríguez, Ags.",21.916944,-102.427778,1974,Aguascalientes,Jesús María,Presa El Niágara,Lerma Santiago,1890,18.84,1888.9,15.99,1885.21,8.737,55
+2016,"Derivadora Pabellón, Ags.",22.235,-102.4375,2090,Aguascalientes,Rincón de Romos,Río San Pedro,Lerma Santiago,2093,2.1,2092.6,2.038,2086.16,1.189,58
+2016,"El Niágara, Ags.",21.78,-102.371667,1828,Aguascalientes,Aguascalientes,Presa El Niágara,Lerma Santiago,1832.4,31.695,1828.4,16.188,1828.48,16.419,101
+2016,"Jocoque, Ags.",22.121667,-102.356944,1970,Aguascalientes,San José de Gracia,Río San Pedro,Lerma Santiago,1943.4,11.4,1942.45,10.975,1942.43,10.961,100
+2016,"La Codorniz, Ags.",21.9975,-102.676944,1783,Aguascalientes,Calvillo,Río Juchipila 1,Lerma Santiago,1837.76,6.528,1836,5.366,1831.87,3.243,60
+2016,"Media Luna, Ags.",21.8075,-102.788333,1585,Aguascalientes,Calvillo,Río Juchipila 1,Lerma Santiago,1621.96,21.196,1619.2,15,1616.06,9.846,66
+2016,"Plutarco Elías Calles, Ags.",22.141111,-102.417222,2020,Aguascalientes,San José de Gracia,Presa Calles,Lerma Santiago,2022,407.438,2020,358.121,2012.78,205.058,57
+2015,"Abelardo L. Rodríguez, Ags.",21.916944,-102.427778,1974,Aguascalientes,Jesús María,Presa El Niágara,Lerma Santiago,1890,18.84,1888.9,15.99,1882.72,5.331,33
+2015,"Derivadora Pabellón, Ags.",22.235,-102.4375,2090,Aguascalientes,Rincón de Romos,Río San Pedro,Lerma Santiago,2093,2.1,2092.6,2.038,2087.37,1.334,65
+2015,"El Niágara, Ags.",21.78,-102.371667,1828,Aguascalientes,Aguascalientes,Presa El Niágara,Lerma Santiago,1832.4,31.695,1828.4,16.188,1828.89,17.6,109
+2015,"Jocoque, Ags.",22.121667,-102.356944,1970,Aguascalientes,San José de Gracia,Río San Pedro,Lerma Santiago,1943.4,11.4,1942.45,10.975,1942.47,10.989,100
+2015,"La Codorniz, Ags.",21.9975,-102.676944,1783,Aguascalientes,Calvillo,Río Juchipila 1,Lerma Santiago,1837.76,6.528,1836,5.366,1836.01,5.372,100
+2015,"Media Luna, Ags.",21.8075,-102.788333,1585,Aguascalientes,Calvillo,Río Juchipila 1,Lerma Santiago,1621.96,21.196,1619.2,15,1619.35,15.5,103
+2015,"Plutarco Elías Calles, Ags.",22.141111,-102.417222,2020,Aguascalientes,San José de Gracia,Presa Calles,Lerma Santiago,2022,407.438,2020,358.121,2011.28,181.268,51
+2014,"Abelardo L. Rodríguez, Ags.",21.916944,-102.427778,1974,Aguascalientes,Jesús María,Presa El Niágara,Lerma Santiago,1890,18.84,1888.9,15.99,1884.34,7.292,46
+2014,"Derivadora Pabellón, Ags.",22.235,-102.4375,2090,Aguascalientes,Rincón de Romos,Río San Pedro,Lerma Santiago,2093,2.1,2092.6,2.038,2086.93,1.282,63
+2014,"El Niágara, Ags.",21.78,-102.371667,1828,Aguascalientes,Aguascalientes,Presa El Niágara,Lerma Santiago,1832.4,31.695,1828.4,16.188,1828.67,16.966,105
+2014,"Jocoque, Ags.",22.121667,-102.356944,1970,Aguascalientes,San José de Gracia,Río San Pedro,Lerma Santiago,1943.4,11.4,1942.45,10.975,1941.99,10.643,97
+2014,"La Codorniz, Ags.",21.9975,-102.676944,1783,Aguascalientes,Calvillo,Río Juchipila 1,Lerma Santiago,1837.76,6.528,1836,5.366,1834.06,4.278,80
+2014,"Media Luna, Ags.",21.8075,-102.788333,1585,Aguascalientes,Calvillo,Río Juchipila 1,Lerma Santiago,1621.96,21.196,1619.2,15,1616.26,10.166,68
+2014,"Plutarco Elías Calles, Ags.",22.141111,-102.417222,2020,Aguascalientes,San José de Gracia,Presa Calles,Lerma Santiago,2022,407.438,2020,358.121,2006.6,114.2,32
